@@ -1,2 +1,5 @@
 # IntelliJ Project
 .idea
+
+# Python Virtual Environment
+venv
